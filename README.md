@@ -1,1 +1,1 @@
-Create button for switch mode on website.
+# Create button for switch mode on website.
